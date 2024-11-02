@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced JavaScript frameworks and blockchain integrations.
 - 💞️ I’m looking to collaborate on innovative tech projects that combine data analysis with user-centric design.
 - 📫 How to reach me: [https://x.com/Niktulez1998197] @brannbronzoborod
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: he
 - ⚡ Fun fact: I enjoy blending traditional art techniques with digital media to create unique visual experiences.
 
 <!---
